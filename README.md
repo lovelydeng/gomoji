@@ -19,7 +19,7 @@ Getting Started
 To start using GoMoji, install Go and run `go get`:
 
 ```sh
-$ go get -u github.com/forPelevin/gomoji
+$ go get -u github.com/lovelydeng/gomoji
 ```
 
 This will retrieve the package.
