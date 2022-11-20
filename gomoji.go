@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/rivo/uniseg"
+	"github.com/lovelydeng/uniseg"
 )
 
 // errors

@@ -1,5 +1,5 @@
-module github.com/forPelevin/gomoji
+module github.com/lovelydeng/gomoji
 
-go 1.19
+go 1.17
 
-require github.com/rivo/uniseg v0.3.4
+require github.com/lovelydeng/uniseg v0.0.0-20221120141218-19f3806b842a
